@@ -5,10 +5,10 @@
 ---
 
 ### About Me
-I’m a **Master of Computer Applications (MCA)** student at **NMIMS** with a mission to build high-performance web apps and intelligent data solutions. 💡
+I’m a **Master of Computer Applications (MCA)** student at **NMIMS** with a mission to build high-performance web apps and intelligent data solutions.
 
-* **Current Mission:** Crushing it as a **Frontend Developer Intern at Dimensionless**, building production-ready components with **React, Next.js, and TypeScript** ⚡
-* **The Journey:** From architecting robust **Spring Boot microservices** to engineering **RAG (Retrieval-Augmented Generation)** solutions for legal-tech, I love living at the intersection of powerful backends and sleek frontends. 🎨
+* **Current Mission:** Crushing it as a **Frontend Developer Intern at Dimensionless**, building production-ready components with **React, Next.js, and TypeScript**
+* **The Journey:** From architecting robust **Spring Boot microservices** to engineering **RAG (Retrieval-Augmented Generation)** solutions for legal-tech, I love living at the intersection of powerful backends and sleek frontends.
 
 ---
 
