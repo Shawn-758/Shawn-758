@@ -1,10 +1,10 @@
-# 🚀 Hi, I'm Shawn Joseph! 
+# Hi, I'm Shawn Joseph! 
 
 **Frontend Specialist | Microservices Architect | AI & Machine Learning Enthusiast**
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 I’m a **Master of Computer Applications (MCA)** student at **NMIMS** with a mission to build high-performance web apps and intelligent data solutions. 💡
 
 * **Current Mission:** Crushing it as a **Frontend Developer Intern at Dimensionless**, building production-ready components with **React, Next.js, and TypeScript** ⚡
@@ -12,7 +12,7 @@ I’m a **Master of Computer Applications (MCA)** student at **NMIMS** with a mi
 
 ---
 
-### 🛠️ My Tech Toolbox
+###  My Tech Toolbox
 
 | Category | Tools & Technologies |
 | :--- | :--- |
@@ -24,7 +24,7 @@ I’m a **Master of Computer Applications (MCA)** student at **NMIMS** with a mi
 
 ---
 
-### 🌟 Featured Projects
+### Featured Projects
 
 * **⚖️ Juris Draft**: A legal-tech RAG solution using **FastAPI** and **LangChain** for high-speed semantic retrieval.
 * **📈 Market Maven**: Stock prediction platform utilizing **Python** and **LSTM models** for financial forecasting.
@@ -32,23 +32,23 @@ I’m a **Master of Computer Applications (MCA)** student at **NMIMS** with a mi
 
 ---
 
-### 🏆 Certifications & Wins
-* ☁️ **AWS Certified**: Cloud Architecting, Practitioner, & Machine Learning.
-* 🤖 **Oracle Certified**: AI Foundations Associate.
-* 🥇 **First Place**: Small Biz Project (2024-2025) – Led an agile frontend team to victory!
+### Certifications & Wins
+* **AWS Certified**: Cloud Architecting, Practitioner, & Machine Learning.
+* **Oracle Certified**: AI Foundations Associate.
+* **First Place**: Small Biz Project (2024-2025) – Led an agile frontend team to victory!
 
 ---
 
-### 📫 Let's Connect!
-* 💼 **LinkedIn**: [shawn-joseph5](https://linkedin.com/in/shawn-joseph5)
-* 📧 **Email**: [shawnsilvi@gmail.com](mailto:shawnsilvi@gmail.com)
-* 🏗️ **Portfolio**: *Under Construction*
+### Let's Connect!
+* **LinkedIn**: [shawn-joseph5](https://linkedin.com/in/shawn-joseph5)
+* **Email**: [shawnsilvi@gmail.com](mailto:shawnsilvi@gmail.com)
+* **Portfolio**: *Under Construction*
 
 ---
 
 ---
 
-### 📊 My GitHub Metrics
+### My GitHub Metrics
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shawn-758&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
