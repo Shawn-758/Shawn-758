@@ -1,6 +1,6 @@
 # Hi, I'm Shawn Joseph! 
 
-**Frontend Specialist | Microservices Architect | AI & Machine Learning Enthusiast**
+**Frontend | Microservices Architect | AI & Machine Learning Enthusiast**
 
 ---
 
