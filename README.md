@@ -26,7 +26,7 @@ I’m a **Master of Computer Applications (MCA)** student at **NMIMS** with a mi
 
 ### Featured Projects
 
-* **⚖️ Juris Draft**: A legal-tech RAG solution using **FastAPI** and **LangChain** for high-speed semantic retrieval.
+* **⚖️ Maven**: A RAG solution using for high-speed semantic retrieval.
 * **📈 Market Maven**: Stock prediction platform utilizing **Python** and **LSTM models** for financial forecasting.
 * **🌐 BlogSphere**: A resilient microservices platform containerized with **Docker** and deployed on **AWS**.
 
