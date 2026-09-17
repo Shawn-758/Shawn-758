@@ -1,6 +1,6 @@
 # Hi, I'm Shawn Joseph! 
 
-**Frontend | Microservices Architect | AI & Machine Learning Enthusiast**
+**FullStack | Microservices | AI & Machine Learning Enthusiast**
 
 ---
 
